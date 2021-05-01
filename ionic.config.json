@@ -1,0 +1,8 @@
+{
+  "name": "naijaapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6c25a254"
+}
